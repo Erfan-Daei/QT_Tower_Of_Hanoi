@@ -2,6 +2,7 @@
 Tower Of Hanoi With C++ In QT Creator
 
 This Is Tower Of Hanoi Game , In This Game 4 Rectangles Placed In Order From Smaller To Bigger In First Column
+
 User Must Move Rectangles From Column A To Column C In Same Order To Win The Game
 
 User Cannot Places Bigger Rectangles On Smaller Ones And Also Cannot Moves Rectangles Under Another Rectangle
